@@ -1,0 +1,17 @@
+mode: set
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:18.98,23.2 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:25.108,26.74 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:26.74,28.3 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:29.2,33.50 2 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:33.50,37.3 3 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:38.2,38.42 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:41.72,43.35 2 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:43.35,50.3 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:51.2,51.13 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:54.86,55.76 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:55.76,57.3 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:58.2,63.47 2 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:63.47,65.3 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:66.2,66.18 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:69.62,71.2 1 1
+github.com/rizghz/clean/module/user/service/UserServiceImpl.go:73.68,75.2 1 1
